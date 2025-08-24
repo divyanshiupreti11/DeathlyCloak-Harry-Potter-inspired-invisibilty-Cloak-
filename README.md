@@ -25,6 +25,14 @@ OpenCV
 
 NumPy
 
+💡 Notes
+
+Works best in good lighting conditions.
+
+Ensure the background is stable and clear.
+
+Red color detection can be adjusted via HSV ranges in test.py for different shades of red.
+
 🏆 Credits
 
 Built with ❤️ using OpenCV & NumPy.
