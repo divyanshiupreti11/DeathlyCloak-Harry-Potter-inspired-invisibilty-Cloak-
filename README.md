@@ -1,6 +1,6 @@
-🧙‍♂️ Deathly Cloak (OpenCV + Python)
-This project creates a Harry Potter-style invisibility cloak using OpenCV and Python.
-It works by detecting a red cloak in front of the webcam and replacing it with a pre-captured background, making the person appear invisible.
+🕰️ Deathly Cloak (Python + OpenCV)
+
+Bring magic to your screen with the Deathly Cloak! This project creates a Harry Potter-style invisibility cloak using Python and OpenCV. Wear a red cloak, and watch yourself disappear as the background takes over — just like invisibility magic! 🪄✨
 🚀 How It Works
 
 Capture the background image (without you in the frame).
