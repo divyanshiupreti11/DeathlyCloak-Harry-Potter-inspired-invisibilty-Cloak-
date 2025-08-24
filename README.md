@@ -10,11 +10,16 @@ Detect the red color cloak in the live video using HSV color space.
 Replace the red cloak area with the saved background.
 
 Display the final output → you look invisible 🎥✨
+
 📂 Project Structure
+
 📁 Invisibility-Cloak
 │-- background.py   # Captures and saves background as image.jpg
+
 │-- test.py         # Runs the invisibility cloak effect
+
 │-- image.jpg       # Saved background (auto-generated)
+
 │-- README.md       # Project documentation
 
 ⚙️ Requirements
