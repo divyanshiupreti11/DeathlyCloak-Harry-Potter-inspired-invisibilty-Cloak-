@@ -11,6 +11,8 @@ Replace the red cloak area with the saved background.
 
 Display the final output → you look invisible 🎥✨
 
+
+
 📂 Project Structure
 
 📁 Invisibility-Cloak
@@ -22,6 +24,8 @@ Display the final output → you look invisible 🎥✨
 
 │-- README.md       # Project documentation
 
+
+
 ⚙️ Requirements
 
 Python 3.x
@@ -30,6 +34,8 @@ OpenCV
 
 NumPy
 
+
+
 💡 Notes
 
 Works best in good lighting conditions.
@@ -37,6 +43,8 @@ Works best in good lighting conditions.
 Ensure the background is stable and clear.
 
 Red color detection can be adjusted via HSV ranges in test.py for different shades of red.
+
+
 
 🏆 Credits
 
